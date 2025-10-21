@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mochi AI Tutor",
+  "description": "An interactive, super-intelligent AI tutor featuring an expressive Mochi character. Users can interact with the AI using voice or text to learn any subject in the Vietnamese curriculum, receiving spoken and written responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
